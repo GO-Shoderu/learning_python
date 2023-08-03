@@ -1,0 +1,3 @@
+Working with Strings 
+Learning about concatenation and formatted output
+Learning about some string methods like len, replace, find, upper, lower, in and so on ... 
