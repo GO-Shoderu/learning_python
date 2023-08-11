@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#aliases for creating files
+alias create='touch README.md app.py' readme='vi README.md' app='vi app.py' pyt='python3 app.py'
