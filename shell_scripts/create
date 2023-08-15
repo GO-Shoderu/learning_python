@@ -1,0 +1,3 @@
+#!/bin/bash
+
+alias create='touch README.md app.py'
